@@ -15,7 +15,7 @@ Este projeto é uma plataforma web que conecta clientes com desenvolvedores free
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/joaojp900/Freelancer-hours/tree/main
+   git clone https://github.com/joaojp900/Freelancer-hours
    ```
 2. **Instale as dependências:**
    ```bash
